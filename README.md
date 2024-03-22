@@ -25,13 +25,23 @@ Tener el driver de la ultima version de google chrome dentro del proyecto.
 #Comandos de Git
 
 git init
+
 git remote add origin 
+
 git checkout -b feature/retobanitsmo
+
 git pull origin feature/retobanitsmo
+
 git status (muestra diferencias entre archvos locales y remoto)
+
 git add . (prepara los archivos)
+
 git status (muestra los archivos preparados)
+
 git commit -m "comentario"
+
 git status (muestra el estado del versionamiento)
+
 git push origin feature/retobanitsmo (Se sube todo al repositorio 
+
 
