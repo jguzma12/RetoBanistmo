@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="The user enters and performs the credit simulation" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-22T18:44:04" hostname="LAPTOP-MUKU1ITQ" time="22.64">
+  <properties/>
+  <testcase name="Amount less than the minimum" classname="The user enters and performs the credit simulation" time="22.64"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[mar. 22, 2024 1:44:05 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 123.0.6312.58 (6b4b19e9dfbb93aa414dc045bd445287977d8d7a-refs/branch-heads/6312_46@{#3}) on port 30195
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+mar. 22, 2024 1:44:06 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
